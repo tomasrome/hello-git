@@ -1,2 +1,1 @@
-print("Hello Git");
-print("¿Como estuvo la clase?");
+print(" New Hello Git");
